@@ -20,6 +20,7 @@ aosp	https://android.googlesource.com/platform/frameworks/base (fetch)
 aosp	https://android.googlesource.com/platform/frameworks/base (push)
 
 aosp - This is to fetch and push (if need be) changes to the aosp source.
+
 alt - This is to fetch and push changes to our project specific remote repository.
 
 All our changes will be merged and pushed to this repo.
