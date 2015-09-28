@@ -1,12 +1,11 @@
 # AOSP Project - README
 
 Team "MADS"
-############
+
+This repository is the remote repository that holds our changes for the CSE 622 - ACS Fall 2015 project.
 
 Repositories:
 -------------
-
-This repository is the remote repository that holds our changes for the CSE 622 - ACS Fall 2015 project.
 
 Our ACS project has two remote repository connections,
 
