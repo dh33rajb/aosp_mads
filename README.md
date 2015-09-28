@@ -29,7 +29,7 @@ Branches:
 
 master - This branch will contain the final code changes pushed by each member of the team AFTER THE CHANGES HAVE BEEN TESTED and APPROVED.
 
-<per-person-local-branch> ex: cse622_fall15_mads - This is a local branch that each one of the team member creates and pushes his changes before actually merging the changes to master.
+per-person-local-branch (ex: cse622_fall15_mads for dheeraj) - This is a local branch that each one of the team member creates and pushes his changes before actually merging the changes to master.
 
 So, in total at the least there will be 5 branches - 1 master and 4 local branches, 1 per team member.
 
