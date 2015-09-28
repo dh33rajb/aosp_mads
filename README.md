@@ -1,5 +1,7 @@
-# aosp_mads - Our main repo for ACS project.
-# Team-B: MADS
+# aosp_mads: README
+Our main repo for ACS project.
+
+Team-B: MADS
 
 This repository is the remote repository that holds our changes for the CSE 622 - ACS Fall 2015 project.
 
