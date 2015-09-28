@@ -1,4 +1,4 @@
-# aosp_mads: README
+# AOSP Project - Team "MADS" README
 Our main repo for ACS project.
 
 Team-B: MADS
